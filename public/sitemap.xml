@@ -8,12 +8,22 @@
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/work/fall-plaza/</loc>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/cases/fall-plaza/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/work/modern-hospital/</loc>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/events/fall-plaza/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/cases/modern-hospital/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/events/modern-hospital/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -23,7 +33,12 @@
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/work/cargo-terminal/</loc>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/cases/cargo-terminal/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/events/cargo-terminal/</loc>
     <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url>
   
@@ -73,12 +88,17 @@
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/services/</loc>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/cases/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://reachaaut.github.io/ReachAAUt-Site/work/</loc>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/events/</loc>
+    <lastmod>2018-02-10T11:52:18+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://reachaaut.github.io/ReachAAUt-Site/services/</loc>
     <lastmod>2018-02-10T11:52:18+07:00</lastmod>
   </url>
   
