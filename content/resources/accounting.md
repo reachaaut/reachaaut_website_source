@@ -1,18 +1,16 @@
 ---
-title: 'Accounting'
+title: 'Podcasting'
 date: 2018-11-18T12:33:46+10:00
-icon: 'services/service-icon-1.png'
+icon: 'services/icon_pod.png'
 draft: false
 featured: true
 weight: 1
-heroHeading: 'Accounting'
+heroHeading: 'Podcasting'
 heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Long form audio has been gaining popularity in the past few years and is an excellent format to communicate complex content efficiently. Learn how podcasts can be used for research dessminiation and how you can start an own podcast series without investing much time or resources.
 
 ## Ne verba patulosque numen vix libet
 

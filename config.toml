@@ -19,8 +19,8 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-	name = "Services"
-	url = "/services/"
+	name = "Resources"
+	url = "/resources/"
     weight = 1
 
 [[menu.main]]
