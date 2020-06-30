@@ -1,9 +1,9 @@
 ---
-title: 'We Help Business Grow'
+title: 'Make the most out of your research'
 weight: 1
-background: 'images/kevin-bhagat-461952-unsplash.jpg'
-button: 'Our Work'
+background: 'images/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg'
+button: 'Learn more'
 buttonLink: 'work'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+#ReachAAUt is a project at Aalborg University, Denmark that aims to identify and promote good practice for research dissemination. We believe in Open Science, Open Source and knowledge impact through community support.

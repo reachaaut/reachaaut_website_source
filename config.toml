@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://reachaaut.github.io/ReachAAUt-Site/"
 languageCode = "en-us"
 title = "#ReachAAUt"
 themesDir = "themes"
