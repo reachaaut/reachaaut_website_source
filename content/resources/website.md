@@ -1,10 +1,10 @@
 ---
-title: 'Webpage'
+title: 'Website'
 date: 2018-11-28T15:15:34+10:00
 icon: 'services/icon_webpage.PNG'
 featured: true
 draft: false
-heroHeading: 'Webpage'
+heroHeading: 'Website'
 heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
 heroBackground: 'services/service2.jpg'
 ---
