@@ -1,17 +1,24 @@
 ---
-title: 'Mergers'
-date: 2018-11-28T15:15:34+10:00
-icon: 'services/service-icon-4.png'
+title: 'Researcher Blog'
+date: 2020-12-07T15:15:34+10:00
+icon: 'services/icon_blog.png'
 featured: true
 draft: false
-heroHeading: 'Mergers & Acquisitions'
-heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
-heroBackground: 'services/service2.jpg'
+heroHeading: 'Researcher Blog'
+heroSubHeading: 'A quick and efficient way to communicate your research to broader audiences.'
+heroBackground: 'https://source.unsplash.com/cckf4TsHAuw'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+blhablhablh blhadblahsblhhad
+sldjsl
+blhablhablh blhadblahsblhhad
+sldjsl
+lh blhadblahsblhhad
+sldjsl
+
+
+
+--- 
 
 ## Ne verba patulosque numen vix libet
 
