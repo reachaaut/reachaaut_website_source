@@ -12,44 +12,34 @@ heroBackground: 'services/service1.jpg'
 
 Long form audio has been gaining popularity in the past few years and is an excellent format to communicate complex content efficiently. Learn how podcasts can be used for research dessminiation and how you can start an own podcast series without investing much time or resources.
 
-## Ne verba patulosque numen vix libet
+By using the app Anchor, it becomes simple to create your first podcast. You will only need a phone to record it and you can edit the podcast on your phone. If you want to try it out, we will recommend you follow these tips.  
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+---
+##### 1. Write a script  
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+It is a good idea to plan what you want to say. The script can ensure, that you speak precisely about your research. It helps you stay on track. Remember, your audience does not have any visuals. Therefore, you may help your audience by not telling confusing side stories. Keep it simple! 
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+---
+##### 2. Ask a colleague to join if it feels awkward to record your monologue  
 
-## Postquam tamen
+When you make your first podcast, you may probably have an awkward feeling. It is difficult to speak alone in a podcast in the beginning. Therefore, it can be helpful to ask a colleague to join 
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+---
+##### 3. Use a good microphone: Not the one on your smartphone 
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+The microphone does not have to be that expensive. Just using another microphone than the one you got on your devices will improve the sound quality a lot 
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+---
+##### 4. Publish new podcast consistently 
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+It does not matter how often you publish your podcast but publishing your podcast consistently will give you more listeners. Therefore, it is a great tip to pick a weekday to publish your podcast. For example, you may choose every Friday or every second Friday. This will help you to get loyal listeners 
+
+---
+##### 5. Make your podcast as long as it needs to be  
+
+The length of your podcast is not the important thing. The important thing is the story you want to tell. Take your time to tell your story, but not a second more. There is no reason to fill the time with long side stories. Instead, focus on the core of the story. 
+
+--- 
+##### 6. Make a test recording 
+
+There is nothing worse than having recorded for hours and then find out, that there is something wrong with your recording equipment. Make a short test recording to avoid that. 

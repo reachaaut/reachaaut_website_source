@@ -9,56 +9,81 @@ heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service2.jpg'
 ---
 
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+By using social media, you will get a larger audience and can increase the reach of your research [(recent studies show how tweeting about research papers significantly increase the number of citations.)](https://www.sciencedirect.com/science/article/pii/S0003497520308602) With a single tweet, you can quickly and easily reach out to people from all over the world. Twitter is a great and simple platform to share your content without any special equipment other than your phone or computer. We will describe how it easily can be used for research dissemination. 
 
-## Inter pectore totidem
+**If you want to try out Twitter, we will recommend you follow these tips** 
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+---
+##### 1. Create a Twitter Bio 
 
-## Novis hunc qua erat caecisque
+Even though you use Twitter for research dissemination make sure to show some personality as well. Be informative and write what you do and some of your interests to make your bio more authentic.  
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
+If you are blogging too, the Twitter bio is a great place to link to your blog. 
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
+---
+##### 2. Keep it simple and post often  
 
-## Naiades latuere rubenti tendere os Phrygum eminus
+If you are making short tweets you make it easier for your network to retweet. By tweeting regularly, you have a better opportunity to reach more followers and those who maybe missed your first tweets. 
 
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
+---
+##### 3. Use pictures, videos and gifs in your tweets 
 
-## Statuunt nais inponere tamen duodena aemulus mille
+Use pictures, videos and gifs to stand out in your followers’ feed and get more feedback. This is a great way to make your content more engaging and visual. 
 
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
+---
+##### 4. Use relevant hashtags 
 
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
+By using relevant hashtags, you enhance your visibility, and it becomes easier for others to find your tweets. Think of a hashtag as a keyword. Using hashtags is a great way to make sure that the right people see your tweets and not just the ones that already follow you. Anyone interested in your hashtag may read your content because of that specific hashtag that you wrote. 
 
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+Begin with a broad hashtag that is related to your content. For example, something broad like #Science. Examples of other relevant hashtags can be #SciTwitter, #Research and #AcademicTwitter.  
+
+A great way to locate hashtags is to get inspired by other academics or your colleagues. Otherwise there are platforms to help you locate relevant hashtags. Ritetag.com is a usable website for this. The website will both suggest hashtags to get seen now or hashtags to get seen over time. This is a great platform if you need inspiration to locate relevant hashtags for your content in only a few minutes. 
+
+Avoid hashtag overload: 2-3 appropriate hashtags will be enough to ensure visibility and attention to your tweet.  
+
+---
+##### 5. Seek out relevant followers  
+
+Twitter is a great platform to connect with others and get a larger audience.  Follow others with relevance within your feel and if they like your content they might follow you back as well. You might get influential followers this way and this is just the beginning of creating a network online. 
+
+The activity of engaging with peers on twitter can be a preparatory activity prior to conference attendance to grow your visibility within the field and prepare short coffee-meetings during conferences.  During conferences livetweeting can provide a foundation for sharing input from e.g. key notes, interesting paper sessions etc. and create a path for engagement with other experts within the field.  
+
+Many journals, conferences and networks have their own Twitter-account. Check out the relevant accounts within your field; they often retweet calls for papers, new research and field-relevant activities.  
+
+Another approach to mapping potential relevant stakeholders is to create your own Twitter Lists where you can outline relevant research themes and follow them in a separate twitter feed (e.g. by using TweetDeck). Each time you add a Twitter user to a list, they are notified and can follow the theme and development of the list. This is an excellent way of starting an informal dialogue with peers.  
+
+---
+##### 6. Share your publications 
+
+Sharing your publications on Twitter can be an easy way to get feedback and maybe it will result in new followers as well. Recent studies show how tweeting about research papers significantly increase the number of citations2. Rather than posting the abstract, summarize the key findings or key points of discussion in 1-2 short sentences as an appetizer for the reader to follow. Remember to post a link to the journal paper/research gate og VBN.  
+
+---
+##### 7. Learn from other successful people on Twitter 
+
+Check out what other academics are posting and how they have set up their accounts to get inspiration for your own. 
+
+The use of twitter presupposes engagement; allocate time to grow your feed and engage with your peers.  
+
+--- 
+
+ 
+
+ 
+
+ 
+
+ 
+
+**Examples of what you can use twitter for and why you as an academic should use Twitter**
+
+* * 1: You can tweet about new publications and share your research dissemination  
+
+* * 2: If you are blogging as well, you can link to your blog post in your tweets 
+
+* * 3: You can follow other academics to reach a larger audience 
+
+* * 4: You can use Twitter to explore new research and retweet if it is relevant 
+
+* * 5: You can seek feedback about your content and give it to others as well 
+
+ 
