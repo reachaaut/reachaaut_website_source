@@ -1,7 +1,7 @@
 ---
 title: 'Twitter'
 date: 2018-11-28T15:14:39+10:00
-icon: 'services/icon_twitter.png'
+icon: 'services/icon_twitter.PNG'
 featured: true
 draft: false
 heroHeading: 'Twitter'

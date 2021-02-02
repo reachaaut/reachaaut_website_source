@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 title: 'Researcher Blog'
 date: 2020-12-07T15:15:34+10:00
 icon: 'services/icon_blog.png'
@@ -7,6 +8,16 @@ draft: false
 heroHeading: 'Researcher Blog'
 heroSubHeading: 'A quick and efficient way to communicate your research to broader audiences.'
 heroBackground: 'https://source.unsplash.com/cckf4TsHAuw'
+=======
+title: 'Webpage'
+date: 2018-11-28T15:15:34+10:00
+icon: 'services/icon_webpage.PNG'
+featured: true
+draft: false
+heroHeading: 'Webpage'
+heroSubHeading: 'Thinking of acquiring another business? Let us guide you through the process.'
+heroBackground: 'services/service2.jpg'
+>>>>>>> 5c059096cd213fc61ab450f587982a2f37951d3b
 ---
 
 blhablhablh blhadblahsblhhad
