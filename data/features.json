@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Identify good Practice",
+    "description": "We identify and contact researchers that engage in digital dissemination",
     "image": "features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Create dialogue",
+    "description": "We start a conversation about their approach to sharing knowledge",
     "image": "features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Share experience and resources",
+    "description": "We collect and share insights",
     "image": "features/noun_3d modeling_1885342.svg"
   }
 ]

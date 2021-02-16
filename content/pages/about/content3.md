@@ -1,11 +1,11 @@
 ---
 title: 'About Content 3'
 date: 2018-12-06T09:29:16+10:00
-background: ''
+background: 'features/about3.PNG'
 button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-# Contact Us
+# Our goal
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+With this project is that more researchers are able to easily share their research to several people and communities. 
