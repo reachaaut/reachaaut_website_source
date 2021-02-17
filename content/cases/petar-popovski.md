@@ -5,8 +5,8 @@ draft: false
 weight: 1
 heroHeading: 'Petar Popovski'
 heroSubHeading: 'Blogging about 5G communication'
-heroBackground: 'http://petarpopovski.blog.aau.dk/files/2020/04/cropped-HeaderWebsite1.jpg'
-thumbnail: 'http://petarpopovski.es.aau.dk/files/2016/04/EliteForsk-8053lores-274x300.jpg'
+heroBackground: 'https://pbs.twimg.com/profile_images/1206922496873783301/OW2r2fS4_400x400.jpg'
+thumbnail: 'https://pbs.twimg.com/profile_images/1206922496873783301/OW2r2fS4_400x400.jpg'
 images: ['https://source.unsplash.com/random/400x600/?nature', 
 'https://source.unsplash.com/random/400x300/?travel','https://source.unsplash.com/random/400x300/?architecture','https://source.unsplash.com/random/400x600/?buildings','https://source.unsplash.com/random/400x300/?city','https://source.unsplash.com/random/400x600/?business']
 ---
