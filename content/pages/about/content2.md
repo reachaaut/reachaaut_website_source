@@ -1,10 +1,13 @@
 ---
-title: 'About Content 2'
+title: 'Our goal'
 date: 2018-12-06T09:29:16+10:00
-background: 'features/about2.PNG'
-button: ''
+weight: 2
+background: 'https://source.unsplash.com/kigHD-rVJzA/1600x500'
+align: right
 ---
 
-## Our vision
+We are a team of younger researchers at Aalborg University Business School and like to communicate about our research as well as facilitate discussions among colleagues using social media and other digital means.
 
-Is to make research dissemination and promotion easier for researchers to practice.
+With this project we want to help other researchers ensure effective research dissemination. In practice we don't want to reinvent the wheel but to identify and promote good practice already in use.
+
+

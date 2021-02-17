@@ -28,8 +28,8 @@ theme = "hugo-hero-theme"
     weight = 1
 
 [[menu.main]]
-    name = "Cases"
-    url = "/cases/"
+    name = "Podcast"
+    url = "/podcast/"
     weight = 2
 
 [[menu.main]]
