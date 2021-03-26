@@ -14,9 +14,9 @@ For individuals, research projects or groups, using only open source software an
 ## Key facts
 
 **Dates**
-* 17.03.2021, 2 - 3.30pm
-* 23.03.2021, 2 - 3.30pm
-* 29.03.2021, 2 - 3.30pm
+* 17.04.2021, 2 - 3.30pm
+* 23.04.2021, 2 - 3.30pm
+* 29.04.2021, 2 - 3.30pm
 
 **Time: 1.5h**
 
@@ -29,9 +29,12 @@ Daniel is an Associate Professor in Data Science & Innovation Economics at the A
 His research is featured in leading academic journals such as Research Policy, but also attracted attention and funding from the industry, and lead to price-winning applications. Daniel is actively engaged in initiatives to educate (social science) students & researchers, professionals, and policymakers in understanding, evaluating, and applying modern Data Science and Artificial Intelligence methods for data-driven decision making. 
 
 ## Description
-For many academics, particularly graduate students, post-docs, and early career researchers, having an online presence showcasing their academic work and achievements is an important component for advancing their research and career. A common way to do this is by creating and maintaining a personal website, which provides the opportunity to describe your research interests, highlight recent publications, and share your CV all in one location. 
+For many academics, particularly graduate students, post-docs, and early career researchers, having an online presence showcasing their academic work and achievements is an important component for advancing their research and career, and disseminate research findings fast and to a broad audience.
 
-However, many do not know where or how to begin this process. University internal solutions are often slow and clunky, and link the individual researcher directly to a certain institution. There are also many different services that allow people to create their own websites, but often these services are pricey and do not provide formats that are optimized for sharing academic work. One solution is to build a website using the free, opensource software R and facilitating packages designed specifically for creating websites to highlight academic work. We will directly host this website on Github, the leading free provider of Internet hosting for software development and version control.
+The ability to fast and easy create webpages and populate them with material can be used to provide open access summaries of their findings, but also to serve as a repository for online events, PhD courses, special sessions on conferences and the like.In addition, researchers can use the same workflow create and maintain a personal website, which provides the opportunity to describe your research interests, highlight recent publications, and share your CV all in one location. 
+
+However, many do not know where or how to begin this process. In this workshop, we will use R and facilitating packages designed specifically for creating websites to highlight academic work. We will directly host this website on Github, the leading free provider of Internet hosting for software development and version control.
+
 
 
 ## Preparation
