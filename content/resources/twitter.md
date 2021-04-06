@@ -26,7 +26,11 @@ If you are blogging too, the Twitter bio is a great place to link to your blog.
 A tweet can contain 280 characters - so your message needs to be brief but informative. 
 For instance when tweeting about a new publication, it can be more fruitful to post a sentence representing your main findings rather than the more formal 'titel, journal outlet'-combination. Remember to save some characters for linking to relevant sources. 
 
+If tweeting on a high content topic, you can create a thread of coupled tweets by tapping 'Continue Thread' and add to your last Tweet.
+
 If you are making short tweets you make it easier for your network to retweet. By tweeting regularly, you have a better opportunity to reach more followers and those who maybe missed your first tweets. 
+
+At first you might not have much content to tweet yourself, but retweeting or citing tweets from others are also easy approaches to creating engagement and get a feel of the platform.
 
 
 ---
@@ -64,6 +68,7 @@ Another approach to mapping potential relevant stakeholders is to create your ow
 
 Sharing your publications on Twitter can be an easy way to get feedback and maybe it will result in new followers as well. Recent studies show how tweeting about research papers significantly increase the number of citations. Rather than posting the abstract, summarize the key findings or key points of discussion in 1-2 short sentences as an appetizer for the reader to follow. Remember to post a link to the journal paper/research gate og VBN.  
 
+
 ---
 ##### 7. Learn from other successful people on Twitter 
 
@@ -79,7 +84,7 @@ Time management - Scrolling through Twitter can easily become a process of procr
  
 Personal or professional accounts? On Twitter you can manage multiple accounts, so if you prefer you can set up an account solely for research dissemination. This also goes for external communication from e.g. research groups or research projects.  
 
- 
+Be aware you cannot edit published tweets - but typing errors are a part of the charm of Twitter..  
 
  
 
